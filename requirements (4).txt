@@ -1,3 +1,0 @@
-radio
-PyPDF2
-google-generativeai
